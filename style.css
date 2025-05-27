@@ -1,0 +1,25 @@
+#boot img{
+    height: 300px;
+    width: 300px;
+    border:2px solid black;
+}
+#boot{
+    background-color: rgb(237, 127, 239);
+}
+#what{
+    background-color:rgb(131, 182, 228);
+}
+
+#where{
+    background-color:rgb(255, 222, 133);
+}
+
+#where img{
+height:200px;
+width:200px;
+}
+.carousel-inner img{
+    height: 500px;
+    width:100%;
+
+}
