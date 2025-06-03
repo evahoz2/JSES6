@@ -1,25 +1,13 @@
-#boot img{
-    height: 300px;
-    width: 300px;
-    border:2px solid black;
-}
-#boot{
-    background-color: rgb(237, 127, 239);
-}
-#what{
-    background-color:rgb(131, 182, 228);
-}
+body{
+    background-image:url("https://cdn.pixabay.com/animation/2023/03/19/02/34/02-34-11-741_512.gif") ;
+    text-align: center;
 
-#where{
-    background-color:rgb(255, 222, 133);
 }
-
-#where img{
-height:200px;
-width:200px;
+h1{
+    color: cyan;
 }
-.carousel-inner img{
-    height: 500px;
-    width:100%;
-
+h3{
+    color:cyan;
+    
+    
 }
