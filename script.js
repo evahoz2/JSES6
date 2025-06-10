@@ -6,4 +6,11 @@ let joke=()=>{
     document.getElementById("sms").style.fontFamily="cursive"
     document.getElementById("ig").src="turkey-twerkey.gif"
 }
+
+let one=()=>{
+    document.getElementById("im").src="flores.gif"
+}
+
+
 document.getElementById("bt").addEventListener("click",joke);
+document.getElementById("bu").addEventListener("click",one);
